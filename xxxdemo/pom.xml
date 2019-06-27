@@ -6,7 +6,15 @@
 
     <groupId>com.zou</groupId>
     <artifactId>xxxdemo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.zou</groupId>
+            <artifactId>xxx-api</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
